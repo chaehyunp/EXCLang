@@ -1,0 +1,20 @@
+﻿  Varialbe.c
+D:\CProjects\Variable\Variable\Varialbe.c(22,10): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+D:\CProjects\Variable\Variable\Varialbe.c(43,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Varialbe.c(43,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Varialbe.c(44,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Varialbe.c(44,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Varialbe.c(45,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Varialbe.c(45,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Varialbe.c(46,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Varialbe.c(46,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Varialbe.c(47,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Varialbe.c(47,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Varialbe.c(48,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+D:\CProjects\Variable\Variable\Varialbe.c(48,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+D:\CProjects\Variable\Variable\Varialbe.c(52,8): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+D:\CProjects\Variable\Variable\Varialbe.c(41,9): warning C4101: 'B' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Variable\Variable\Varialbe.c(41,15): warning C4101: 'D' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Variable\Variable\Varialbe.c(41,6): warning C4101: 'A' :참조되지 않은 지역 변수입니다.
+D:\CProjects\Variable\Variable\Varialbe.c(41,12): warning C4101: 'C' :참조되지 않은 지역 변수입니다.
+  Variable.vcxproj -> D:\CProjects\Variable\x64\Debug\Variable.exe
